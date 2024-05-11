@@ -1,7 +1,7 @@
 # Projeto-ALURA-GOOGLE
 Projeto da Imersão IA (Alura+Google)
 
-# Chatbot de Triagem para Ansiedade (Inventário de Ansiedade de Beck)
+# Chatbot de Triagem para níveis de Ansiedade (Inventário de Ansiedade de Beck) - https://pt.wikipedia.org/wiki/Escala_de_ansiedade_de_Beck
 
 O Chatbot de Triagem é uma ferramenta desenvolvida para auxiliar na identificação e encaminhamento de indivíduos que possam estar enfrentando problemas relacionados à ansiedade. Utilizando o Inventário de Ansiedade de Beck (BAI), um instrumento amplamente validado, o chatbot realiza uma triagem personalizada, considerando idade, gênero, nível educacional e nível socioeconômico (NSE) do usuário.
 
@@ -11,7 +11,7 @@ A ansiedade é uma condição comum, porém pode afetar significativamente a qua
 
 ## Como começar a usar o projeto
 
-Para começar a usar o Chatbot de Triagem, basta iniciar uma conversa com o chatbot através do WhatsApp ou da plataforma escolhida. O chatbot guiará o usuário através de um questionário demográfico inicial e, em seguida, realizará perguntas individualizadas do BAI. Ao final da triagem, o chatbot fornecerá encaminhamentos adequados com base nas respostas fornecidas.
+Para começar a usar o Chatbot de Triagem, basta iniciar uma conversa com o chatbot através do WhatsApp* ou da plataforma escolhida. O chatbot guiará o usuário através de um questionário demográfico inicial e, em seguida, realizará perguntas individualizadas do BAI. Ao final da triagem, o chatbot fornecerá encaminhamentos adequados com base nas respostas fornecidas.
 
 ## Onde obter ajuda com o projeto
 
@@ -57,3 +57,4 @@ O projeto Chatbot de Triagem é mantido e desenvolvido por uma equipe dedicada d
 - **Programas de formação para profissionais da saúde:** Capacitação para o diagnóstico e tratamento da ansiedade em diferentes faixas etárias e contextos.
 
 A cidade de "Harmonia" busca oferecer um sistema de saúde mental acolhedor, acessível e que atenda às necessidades de todos os seus cidadãos.
+* Ainda não está em versão WhatsApp.
